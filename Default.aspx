@@ -12,6 +12,7 @@
 <body>
     <div class="container">
         <header class="header clearfix">
+            <nav>
             <h1>JAMES HIA</h1>
             <h5>CINEMATOGRAPHER</h5>
             <ul class="nav justify-content-end">
@@ -28,151 +29,96 @@
                     <a class="nav-link disabled" href="#">CONTACT</a>
                 </li>
             </ul>
-
+            </nav>
         </header>
+
         <hr class="my-7">
         <main role="main">
 
-            <div class="row marketing">
-                <div class="col-lg-6">
 
-                    <a class="project" href="/sampha-process/">
+        <div class="row marketing">
+          <div class="col-lg-6">
+                <a class="project" href="/sampha-process/">
                         <div>
                             <div class="project-image">
-                                <div class="intrinsic">
-                                    <div class="content-fill" style="overflow: hidden;">
-                                        <img data-src="images/drive.png" data-image="images/drive.png" 
-                                            data-image-focal-point="0.5,0.5" 
-                                            data-load="false" data-position-mode="standard" alt=" ..." 
-                                            class="" src="images/drive.png?format=750w"
-                                            data-image-resolution:"750w" 
-                                            style="font-size: 0px;
-                                            left: 0px; top: 60%; bottom: 30%; width: 385px; height: 220px; 
-                                            position: relative;">
+                                    <div class="fill">
+                                        <img src="images/souffle.png" class="img-fluid" max-width:100% height: auto alt="..." position: center">
                                     </div>
                                     <div class="project-title" align="center">Drive</div>
                                 </div>
                             </div>
-                        </div>
                     </a>
-
-                    <p></p>
-
-                                        <a class="project" href="/sampha-process/">
+                  <p></p>
+               <a class="project" href="/sampha-process/">
                         <div>
                             <div class="project-image">
-                                <div class="intrinsic">
-                                    <div class="content-fill" style="overflow: hidden;">
-                                        <img data-src="images/souffle.png" data-image="images/souffle.png" 
-                                            data-image-focal-point="0.5,0.5" 
-                                            data-load="false" data-position-mode="standard" alt=" ..." 
-                                            class="" src="images/souffle.png?format=750w"
-                                            data-image-resolution:"750w" 
-                                            style="font-size: 0px;
-                                            left: 0px; top: 60%; bottom: 30%; width: 385px; height: 220px; 
-                                            position: relative;">
+                                    <div class="fill">
+                                        <img src="images/juno.png" class="img-fluid" max-width:100% height: auto alt="..." position: center">
                                     </div>
                                     <div class="project-title" align="center">Drive</div>
                                 </div>
                             </div>
-                        </div>
                     </a>
-
-                    <p></p>
-
-                                                            <a class="project" href="/sampha-process/">
+                  <p></p>
+               <a class="project" href="/sampha-process/">
                         <div>
                             <div class="project-image">
-                                <div class="intrinsic">
-                                    <div class="content-fill" style="overflow: hidden;">
-                                        <img data-src="images/souffle.png" data-image="images/souffle.png" 
-                                            data-image-focal-point="0.5,0.5" 
-                                            data-load="false" data-position-mode="standard" alt=" ..." 
-                                            class="" src="images/souffle.png?format=750w"
-                                            data-image-resolution:"750w" 
-                                            style="font-size: 0px;
-                                            left: 0px; top: 60%; bottom: 30%; width: 385px; height: 220px; 
-                                            position: relative;">
+                                    <div class="fill">
+                                        <img src="images/lobster.png" class="img-fluid" max-width:100% height: auto alt="..." position: center">
                                     </div>
                                     <div class="project-title" align="center">Drive</div>
                                 </div>
                             </div>
-                        </div>
                     </a>
+                  <p></p>
+          </div>
 
-                    <p></p>
-                </div>
 
-    <div class="col-lg-6">
-                           <a class="project" href="/sampha-process/">
+
+          <div class="col-lg-6">
+                <a class="project" href="/sampha-process/">
                         <div>
                             <div class="project-image">
-                                <div class="intrinsic">
-                                    <div class="content-fill" style="overflow: hidden;">
-                                        <img data-src="images/juno.png" data-image="images/juno.png" 
-                                            data-image-focal-point="0.5,0.5" 
-                                            data-load="false" data-position-mode="standard" alt=" ..." 
-                                            class="" src="images/juno.png?format=750w"
-                                            data-image-resolution:"750w" 
-                                            style="font-size: 0px;
-                                            left: 0px; top: 60%; bottom: 30%; width: 385px; height: 220px; 
-                                            position: relative;">
+                                    <div class="fill">
+                                        <img src="images/leon.png" class="img-fluid" max-width:100% height: auto alt="..." position: center">
                                     </div>
                                     <div class="project-title" align="center">Drive</div>
                                 </div>
                             </div>
-                        </div>
                     </a>
-
                     <p></p>
-
-                                  <a class="project" href="/sampha-process/">
+                     <a class="project" href="/sampha-process/">
                         <div>
                             <div class="project-image">
-                                <div class="intrinsic">
-                                    <div class="content-fill" style="overflow: hidden;">
-                                        <img data-src="images/leon.png" data-image="images/leon.png" 
-                                            data-image-focal-point="0.5,0.5" 
-                                            data-load="false" data-position-mode="standard" alt=" ..." 
-                                            class="" src="images/leon.png?format=750w"
-                                            data-image-resolution:"750w" 
-                                            style="font-size: 0px;
-                                            left: 0px; top: 60%; bottom: 30%; width: 385px; height: 220px; 
-                                            position: relative;">
+                                    <div class="fill">
+                                        <img src="images/taxi.png" class="img-fluid" max-width:100% height: auto alt="..." position: center">
                                     </div>
                                     <div class="project-title" align="center">Drive</div>
                                 </div>
                             </div>
-                        </div>
                     </a>
-
                     <p></p>
-
-                                  <a class="project" href="/sampha-process/">
+                      <a class="project" href="/sampha-process/">
                         <div>
                             <div class="project-image">
-                                <div class="intrinsic">
-                                    <div class="content-fill" style="overflow: hidden;">
-                                        <img data-src="images/translation.png" data-image="images/translation.png" 
-                                            data-image-focal-point="0.5,0.5" 
-                                            data-load="false" data-position-mode="standard" alt=" ..." 
-                                            class="" src="images/translation.png?format=750w"
-                                            data-image-resolution:"750w" 
-                                            style="font-size: 0px;
-                                            left: 0px; top: 60%; bottom: 30%; width: 385px; height: 220px; 
-                                            position: relative;">
+                                    <div class="fill">
+                                        <img src="images/translation.png" class="img-fluid" max-width:100% height: auto alt="..." position: center">
                                     </div>
                                     <div class="project-title" align="center">Drive</div>
                                 </div>
                             </div>
-                        </div>
                     </a>
-
                     <p></p>
-    </div>
-    </div>
+          </div>
+        </div>
 
-        </main>
+      </main>
+
+      <footer class="footer">
+        <p>&copy; Company 2017</p>
+      </footer>
+
+    </div> <!-- /container -->
 
         <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
